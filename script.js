@@ -11,7 +11,7 @@ const businessProfile = {
     // company initials if left empty.
     brandShort: "HTC",
 
-    profileImage: "assets/profile/parishar.jpeg",
+    profileImage: "assets/profile/profilepic.jpeg",
     logo: "assets/logos/company_logo.png",
 
     tagline: "Decor your space.",
