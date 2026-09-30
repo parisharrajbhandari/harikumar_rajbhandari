@@ -23,7 +23,7 @@ const businessProfile = {
     email: "sactvs@yahoo.com",
     website: "https://harikumarrajbhandari.tappoo.workers.dev",
 
-    address: "Chitwan, Nepal",
+    address: "Hamro Trading Concern Pvt. Ltd., Sangam road,Chitwan, Nepal",
     // Optional: exact Google Maps link. If omitted a search URL is
     // built automatically from `address` + `company`.
     mapsUrl: "https://maps.app.goo.gl/oAwfcawXmEtwf24k6",
